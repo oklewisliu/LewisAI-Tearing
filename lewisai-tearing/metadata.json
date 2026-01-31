@@ -1,0 +1,5 @@
+{
+  "name": "LewisAI-Tearing",
+  "description": "智能视频关键帧拆分与风格化工具",
+  "requestFramePermissions": []
+}
